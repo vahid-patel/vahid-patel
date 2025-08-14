@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Vahid Patel, an aspiring Full-Stack Developer with a growing passion for coding and building creative projects. I’m currently focusing on mastering JavaScript, HTML, and CSS, while learning React and Node.js as I work towards becoming a full-stack developer.<br><br>I enjoy solving problems through code and building projects like simple calculators, to-do lists, and more. As I expand my skills, I’m always looking for new challenges and opportunities to grow.<br><br>Check out my repositories and follow along on my coding journey
+I'm Vahid Patel, an aspiring Full-Stack Developer with a growing passion for coding and building creative projects. I’m currently focusing on mastering JavaScript, TypeScript, React, Next.js, and Node.js, while also exploring backend development with Express.js, NestJS, and MongoDB as I work towards becoming a full-stack developer.
+
+I enjoy solving problems through code and building projects like blog applications, authentication systems, and full-stack web apps. As I expand my skills, I’m always looking for new challenges and opportunities to grow.
+
+Check out my repositories and follow along on my coding journey.
 
 
 ## 🌐 Socials:
